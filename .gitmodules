@@ -1,0 +1,3 @@
+[submodule "rao/rao/mavenapp"]
+	path = rao/rao/mavenapp
+	url = https://github.com/ybmadhu/my_maven_app.git
